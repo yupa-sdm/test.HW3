@@ -1,0 +1,7 @@
+Post-History:/22-Aug-2004
+Created:/19-Aug-2004
+Type:/Informational
+Status:/Active
+Author:/tim.peters at gmail.com (Tim Peters)
+Title:/The Zen of Python
+PEP:/20
